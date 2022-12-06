@@ -1,0 +1,13 @@
+github.com/rwxrob/bonzai v0.14.1 h1:v0ItthDiXV7MXRAw7nyTIgsnQn8ZM/VeTCuXJOwVPsw=
+github.com/rwxrob/fn v0.3.3 h1:ymRQGWDhrrvoHKXLJ4WZlgI2qrC7gMOotowQMGvwmVQ=
+github.com/rwxrob/fn v0.3.3/go.mod h1:omPqOqEB+dDna09z5pi5YFxq4IZqDvv3wFPUCES5LvY=
+github.com/rwxrob/pegn v0.1.0 h1:z6x1gRibEW3pG89Qs8amkRHA/UnNNNYOXAacoEp9aFU=
+github.com/rwxrob/pegn v0.1.0/go.mod h1:TyD3XS8ddVucs2gwMr1VhB2HbHiruzj6Ub67RZGTfMA=
+github.com/rwxrob/scan v0.11.0 h1:VCl8/mxpLDvYl6g4BgCBoz4Lq00Yri6OkuEMIrwAnVw=
+github.com/rwxrob/scan v0.11.0/go.mod h1:sDIllL5+Ppk33AHkhhdrkPLP0EheWQPoNotKMhUfCIg=
+github.com/rwxrob/term v0.2.8 h1:N9spr+owF8mRizSqPiATu5F0v2VJUIKwRldsibAUys8=
+github.com/rwxrob/term v0.2.8/go.mod h1:UruWGJ5mrQH5v1XBg52s7ldZUBXxEODevbkoFUM4SrQ=
+github.com/rwxrob/to v0.11.2 h1:kz1W9Pe78Og8U+gLi1Ozs0N7RB5HJt4q9dM9Uaup2XM=
+github.com/rwxrob/to v0.11.2/go.mod h1:8+uSoxMWfTSY/KU57db87hWGZGsiVW0uSDZd7NAgInI=
+golang.org/x/sys v0.2.0 h1:ljd4t30dBnAvMZaQCevtY0xLLD0A+bRZXbgLMLU1F/A=
+golang.org/x/sys v0.2.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
